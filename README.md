@@ -1,4 +1,3 @@
-# OnavsionFileOrganizer
-An AI-powered, free file organization tool built with Electron to instantly tidy up your folders and desktop.
+|OnavsionFileOrganizer|
 
-|only for windows|
+ When I was developing the app, I was going to name it “Apple File Organizer,” but I lost the files and couldn't update the name.

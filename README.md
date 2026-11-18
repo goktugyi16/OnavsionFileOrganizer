@@ -3,7 +3,7 @@
 
 Key Features
 
-- **Ultra Zen Mode:** A high-priority organization mode that handles specific categories (VPN, Cheat, Hack) first, then moves files into structured folders (Images, Documents, Audio, Video, Archives, Code, Installers) based on their extensions.
+- **Ultra Zen Mode:** A high-priority organization mode that handles specific categories (VPN, Cheat, Games, Apps) first, then moves files into structured folders (Images, Documents, Audio, Video, Archives, Code, Installers) based on their extensions.
 - **Deep Scan:** Automatically targets standard paths including the Desktop, OneDrive Desktop, and Public Desktop to ensure no file is left behind.
 - **Instant Revert:** A dedicated "Revert" system that moves files back to their original locations and cleans up the category folders, leaving your desktop perfectly restored.
 - **Glassmorphism UI:** A sleek, modern interface inspired by Apple's design language, featuring a toggleable dark mode.
@@ -26,6 +26,10 @@ How to Use
 1. Extract the contents of this ZIP file.
 2. Run `Onavsion.exe`.
 3. Enjoy a tidy workspace!
+
+(Note: When you open Onavsion, you might see a name at the top that says “Apple File Organizer.” That was its original name; I changed it later, but since I lost the dev files, the name remained that way in the app.
+
+If you see the text “Apple File Organizer,” don't worry.)
 
 
 
